@@ -7,13 +7,14 @@ I'm Francesca (she/her), an aspiring tech professional studying towards a career
 ✨ On my Instagram, you will find a little around my journey into tech. <br />
 ### Good to know:
 ✨ You can contact me via the email address listed on my LinkedIn and website, or use the messaging functions built-in on LinkedIn and Instagram. <br />
-✨ I'm currently working on my bootcamp studies, and these projects are currently private. <br />
-✨ I'm currently prioritising collaboration and mentorship connections within my bootcamp. <br />
-✨ Current learning focuses aside of Git & Github are Agile and Pair Programming, Python, MySQL, OWASP, C, C++, Assembly. <br />
+✨ I'm currently doing an extension course in Vulnerability Research and working on devloping portfolio projects in my spare time. <br />
+✨ I'm currently prioritising my Cajigo 100 Women in Tech menteeship and rounding out my skills as I seek my first job in Tech. <br />
+✨ I'm comfortable with Agile ways of working, pair programming, Git, Github, command line and Jira. <br />
+✨ Current learning focuses are Python (with Flask), MySQL, C, C++, Assembly. Additionally I am working on refining my Javascript skills and am comfortable with HTML and CSS. <br />
 ### 🌱 Fun Fact:
 I'm a former childhood competitive swimmer, born and raised Londoner now in the North West, and avid about lifelong learning in a variety of subjects. <br />
 ### 💬 Ask me about:
-The bootcamp I studied with, the women in tech community, or my early experiences in preparing to career switch into tech. <br />
+The bootcamp I studied with, my Cajigo 100 Women in Tech Accelerator experience, the women in tech community, or more generally about my early experiences in preparing to career switch into tech. <br />
 <br />
 <!--
 **francescatynan/francescatynan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
